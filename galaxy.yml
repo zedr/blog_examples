@@ -1,0 +1,6 @@
+namespace: zedr
+name: blog_examples
+version: 1.0.0
+readme: README.md
+authors:
+  - Rigel Di Scala <rigel@redhat.com>
